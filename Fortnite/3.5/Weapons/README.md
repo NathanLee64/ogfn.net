@@ -1,4 +1,7 @@
 # Fortnite Version 3.5 Weapons
+|Common|Uncommon|Rare|Epic|Legendary
+|-|-|-|-|-
+|C|UC|R|VR|SR
 
 |Name|ID
 |-|-
